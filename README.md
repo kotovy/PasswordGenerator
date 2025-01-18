@@ -15,5 +15,4 @@ Before running the application, ensure you have the following:
 
 2. Open a terminal or command prompt and navigate to the directory containing the downloaded files.
 
-3. Run the following command to start the Password Generator App:
-   
+
